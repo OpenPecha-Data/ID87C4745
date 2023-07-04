@@ -1,0 +1,201 @@
+id: ID87C4745
+ocr_import_info:
+  timestamp: '2023-07-04T09:10:53.738685+00:00'
+  batch_id: batch-a0d9
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: PechaJobs
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-07-04 12:38:22.831212+00:00
+last_modified: 2023-07-04 12:38:22.831220+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W2PD20078
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW2PD20078
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: མཁྱེན་བརྩེའི་བཀའ་བབས།༼བྲིས་མ།༽
+  languages:
+  - bo
+  author: མཁྱེན་བརྩེའི་དབང་པོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9607833541127966
+  ocr_word_median_confidence_index: 0.9991013
+bases:
+  I2PD20080:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20080
+      total_pages: 600
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I2PD20080.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99995863
+      ocr_word_mean_confidence_index: 0.9772414619068341
+  I2PD20081:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20081
+      total_pages: 832
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I2PD20081.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99910915
+      ocr_word_mean_confidence_index: 0.9609331927112946
+  I2PD20085:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20085
+      total_pages: 706
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I2PD20085.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99811053
+      ocr_word_mean_confidence_index: 0.9532920640676255
+  I2PD20086:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20086
+      total_pages: 680
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I2PD20086.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9989481
+      ocr_word_mean_confidence_index: 0.9575615613228933
+  I2PD20093:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20093
+      total_pages: 962
+      volume_number: 14
+      volume_pages_bdrc_intro: 2
+    order: 14
+    base_file: I2PD20093.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9997259
+      ocr_word_mean_confidence_index: 0.9724469757116181
+  I2PD20089:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20089
+      total_pages: 744
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I2PD20089.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.997137635
+      ocr_word_mean_confidence_index: 0.9480591294789654
+  I2PD20087:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20087
+      total_pages: 790
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I2PD20087.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9975575
+      ocr_word_mean_confidence_index: 0.9499886264656632
+  I2PD20094:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20094
+      total_pages: 486
+      volume_number: 15
+      volume_pages_bdrc_intro: 2
+    order: 15
+    base_file: I2PD20094.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.999805775
+      ocr_word_mean_confidence_index: 0.9674719338576162
+  I2PD20088:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20088
+      total_pages: 710
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I2PD20088.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.999078095
+      ocr_word_mean_confidence_index: 0.9592642141312205
+  I2PD20082:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20082
+      total_pages: 936
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I2PD20082.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99867995
+      ocr_word_mean_confidence_index: 0.9594699274772169
+  I2PD20090:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20090
+      total_pages: 716
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I2PD20090.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9988844699999999
+      ocr_word_mean_confidence_index: 0.9591620051090386
+  I2PD20091:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20091
+      total_pages: 864
+      volume_number: 12
+      volume_pages_bdrc_intro: 2
+    order: 12
+    base_file: I2PD20091.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99901026
+      ocr_word_mean_confidence_index: 0.9678585378789835
+  I2PD20092:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20092
+      total_pages: 1000
+      volume_number: 13
+      volume_pages_bdrc_intro: 2
+    order: 13
+    base_file: I2PD20092.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99966824
+      ocr_word_mean_confidence_index: 0.9664137377310182
+  I2PD20084:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20084
+      total_pages: 938
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I2PD20084.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9986066
+      ocr_word_mean_confidence_index: 0.958938642893616
+  I2PD20083:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD20083
+      total_pages: 666
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I2PD20083.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9990707
+      ocr_word_mean_confidence_index: 0.9550101303350103
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
